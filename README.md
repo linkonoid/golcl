@@ -7,7 +7,7 @@ Demonstration:
 - Screenshot 
 - Or load  testexe.zip, extract and run  (in demonstration added StringGrid component in Tab1)
 
-It`s best way make gui on Golang for works tables data in golang. It`s best way make gui on Golang for works tables data in golang. In future i add Data-access components (Datasets, Zeos, Lazreport...) 
+IIt`s best way make GUI on Golang for works tables data. In future i add Data-access components (Datasets, Zeos, Lazreport...) 
 
 For compilation:
 Install github.com/ying32/govcl and Play with main.go file (64bit Dll in complect):
