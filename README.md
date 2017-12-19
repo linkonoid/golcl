@@ -1,7 +1,7 @@
 # golcl
 New crossplatform GUI for Golang.  Adaptation VCL github.com/ying32/govcl for crossplatform Freepascal LCL. Work with like Delphi/Lazarus visual components, methods and events on Go in Delphi style. The first adaptation of govcl (github.com/ying32/govcl) to Lazarus LCL.
 
-I compile DLL library for the Win64 system in 64Bit Lazarus. 
+I modify/adaptation Delphi10-like code for Lazarus/Freepascal and compile DLL library for the Win64 system in 64Bit Lazarus. 
 
 Demonstration:
 - Screenshot 
