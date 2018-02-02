@@ -1,0 +1,8 @@
+object GoForm: TGoForm
+  Left = 1107
+  Height = 240
+  Top = 351
+  Width = 320
+  Caption = 'GoForm'
+  LCLVersion = '1.7'
+end
